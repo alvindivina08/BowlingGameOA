@@ -6,7 +6,7 @@ This is a simple application to calculate the score of a bowling game using Pyga
 
 1. Install Pygame:
    ```sh
-   pip install pygame
+   pip install pygame or pip3 install pygame
    ```
 2. Navigate to the project directory:
    ```
