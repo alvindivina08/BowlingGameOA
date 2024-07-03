@@ -45,6 +45,7 @@ class BowlingGame:
 
     def init_frames(self):
         for i in range(10):
+            print(i)
             frame_rect = pygame.Rect(
                 FRAME_MARGIN + i * (FRAME_WIDTH + FRAME_MARGIN),
                 FRAME_MARGIN,
@@ -53,8 +54,10 @@ class BowlingGame:
             )
             self.frames.append(frame_rect)
             self.frame_scores.append(["", ""])
+            # to be fixed later
             if i == 8:
                 self.frame_scores.append(["", "", ""])  # List to store two scores per frame
+            print(self.frame_scores, i)
 
     def draw(self):
         self.screen.fill(WHITE)
