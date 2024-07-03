@@ -26,3 +26,6 @@ The application will open a window displaying the frames of a bowling game. Ente
 1. Enter "X" for a strike.
 2. Enter "/" for a spare.
 3. Enter numbers 0-9 for regular scores.
+
+![Bowling Score Calculator Screenshot](images/bowling.png)
+![TEST](images/test.png)
