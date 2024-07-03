@@ -27,5 +27,10 @@ The application will open a window displaying the frames of a bowling game. Ente
 2. Enter "/" for a spare.
 3. Enter numbers 0-9 for regular scores.
 
+## Bowling Score Calculator Screenshot
+
 ![Bowling Score Calculator Screenshot](images/bowling.png)
+
+## Test
+
 ![TEST](images/test.png)
